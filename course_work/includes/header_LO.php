@@ -23,7 +23,7 @@
 			    <li><a class="dropdown-item" href="add_loan_request.php">Add Loan Request</a></li>
 			    <li><a class="dropdown-item" href="update_loan_request.php">Update Loan Request</a></li>
 			    <li><a class="dropdown-item" href="add_borrower.php">Add Borrower</a></li>
-			    <li><a class="dropdown-item" href="update_borrower.php">Update Borrower Info</a></li>
+			    <li><a class="dropdown-item" href="updaterower.php">Update Borrower Info</a></li>
 			    
 			</ul>
 	      </li>

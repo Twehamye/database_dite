@@ -41,6 +41,6 @@ else
 	header("Location: home.php");
     exit();
 
-mysqli_close($connect);
+mysqli_close($conn);
 
 ?>
